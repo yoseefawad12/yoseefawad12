@@ -43,9 +43,6 @@ I'm Zero, web devolober front end and programer python and Hacker
 
 <br>
 
-&emsp;&emsp; [![4]][-] &emsp;&emsp; [![6]][-] &emsp;&emsp;  [![5]][-] &emsp;&emsp; [![9]][-] &emsp;&emsp; [![10]][-]`
-
-
 <p align="left"> <a href="https://twitter.com/zero_98x" target="blank"><img src="https://img.shields.io/twitter/follow/zero_98x?logo=twitter&style=for-the-badge" alt="zero_98x" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
