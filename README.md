@@ -29,7 +29,7 @@ learning • Flutter, Node.js, jQuery
 hobbies  • design,
            anime / manga, coffee.
 
-discord  • sodaphase#0712
+discord  • Zero_98X#9232
 
 
 ```
