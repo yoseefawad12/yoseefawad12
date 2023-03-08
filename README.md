@@ -15,9 +15,9 @@
 -->
 
 <img src="argonaut.svg" align="left"/>
+<!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
 
-<img src="argonaut0.png" width="250" height="290" align="left"/>
-Zero@github: ~ $ whoami
+```js
 ──────────────────────────────────────────────
 
 os       • Manjaro x86_64
