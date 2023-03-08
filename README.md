@@ -38,10 +38,10 @@ discord  • sodaphase#0712
 <br>
 
 I'm Zero, web devolober front end and programer python and Hacker
-
+<br>
 <br>
 - 👨‍💻 All of my projects are available at [https://yousseef1mohammed2awad.on.drv.tw/Portfolio/web.html](https://yousseef1mohammed2awad.on.drv.tw/Portfolio/web.html)
-
+<br>
 <br>
 <p align="left"> <a href="https://twitter.com/zero_98x" target="blank"><img src="https://img.shields.io/twitter/follow/zero_98x?logo=twitter&style=for-the-badge" alt="zero_98x" /></a> </p>
 
