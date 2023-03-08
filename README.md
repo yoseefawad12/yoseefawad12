@@ -1,8 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoseefawad12&label=Profile%20views&color=0e75b6&style=flat" alt="yoseefawad12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoseefawad12" alt="yoseefawad12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zero_98x" target="blank"><img src="https://img.shields.io/twitter/follow/zero_98x?logo=twitter&style=for-the-badge" alt="zero_98x" /></a> </p>
 
