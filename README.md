@@ -35,9 +35,10 @@ discord  • Zero_98X#9232
 ```
 
 ---
-<br>
+<br> 
+# Hi there, I'm yusef 👋
 
-I'm Zero, web devolober front end and programer python and Hacker
+I am a passionate **Cybersecurity Researcher and Software Developer** focused on building secure systems and analyzing vulnerabilities.
 <br>
 <br>
 - 👨‍💻 All of my projects are available at [https://yousseef1mohammed2awad.on.drv.tw/Portfolio/web.html](https://yousseef1mohammed2awad.on.drv.tw/Portfolio/web.html)
